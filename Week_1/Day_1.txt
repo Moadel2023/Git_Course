@@ -10,6 +10,10 @@ Git : is distributed version control system  ---- [Github , GitLab , BitBucket]
 . Pull Request
 -------------------------------------------------------------------
 - git clone [https://......] : Creates a copy of an existing Git repository.
+- git status
 - git add    [file] : Moves changes from the working directory to the staging area.
 - git commit : Takes the staged snapshot and commits it to the project history
+- git branch 
+- git remote -v
+- git push : 
 
