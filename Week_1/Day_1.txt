@@ -9,6 +9,7 @@ Git : is distributed version control system  ---- [Github , GitLab , BitBucket]
 . Pull   [Remote Repo --> Loacl Repo]
 . Pull Request
 -------------------------------------------------------------------
-- git clone [https://......]
-- git add    [file]
+- git clone [https://......] : Creates a copy of an existing Git repository.
+- git add    [file] : Moves changes from the working directory to the staging area.
+- git commit : Takes the staged snapshot and commits it to the project history
 
