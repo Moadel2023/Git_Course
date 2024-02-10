@@ -1,0 +1,14 @@
+Git : is distributed version control system  ---- [Github , GitLab , BitBucket]
+. Repository 
+. Branch
+. Local Repo
+. Remote Repo
+. Commit
+. Clone [local Repo , Remote]
+. Push [Loacl Repo --> Remote Repo]
+. Pull   [Remote Repo --> Loacl Repo]
+. Pull Request
+-------------------------------------------------------------------
+- git clone [https://......]
+- git add    [file]
+
