@@ -1,4 +1,5 @@
 Git : is distributed version control system  ---- [Github , GitLab , BitBucket]
+Version Control : A system that records changes to a file or set of files over time so that you can recall specific versions later.
 . Repository 
 . Branch
 . Local Repo
@@ -16,4 +17,5 @@ Git : is distributed version control system  ---- [Github , GitLab , BitBucket]
 - git branch 
 - git remote -v
 - git push : 
+
 

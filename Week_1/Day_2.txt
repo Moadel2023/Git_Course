@@ -1,0 +1,3 @@
+- git config -l
+- git help config
+- git config --global [....]
